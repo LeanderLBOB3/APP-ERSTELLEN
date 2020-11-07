@@ -1,0 +1,9 @@
+void main() {
+ String meinName = "Leander";
+  print("Ich heisse $meinName,");
+  double alter = 11;
+  String casting = alter.toString();
+  print("und bin $alter Jahre alt.");
+  int anzahl = meinName.length;
+  print("Mein Name besteht aus $anzahl Buchstaben.");
+}
